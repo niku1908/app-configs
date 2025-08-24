@@ -44,7 +44,10 @@
             "DatasourceBE": "ENT-OBS-PRD-METRICS",
             "DatasourceLinux": "ENT-OBS-PRD-METRICS",
             "Moogsoft_Datasource": "MOOGSOFT-REP-PROD",
-            "Internal_Site": [],
+            "Internal_Site": [
+                "dfasfasdfsdfasdfa",
+                "fdfasdfsadfadfasdfas"
+            ],
             "MBOX": {
                 "enabled": "false",
                 "project_name": []
